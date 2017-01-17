@@ -1,0 +1,25 @@
+{
+  "name": "installchecker",
+  "version": "1.0.0",
+  "description": "Custom plugin for checking whether \"Untrusted sources\" options is enabled and opening the security settings",
+  "cordova": {
+    "id": "cordova-plugin-installchecker",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaradacl/installchecker.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jaradacl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaradacl/installchecker/issues"
+  },
+  "homepage": "https://github.com/Jaradacl/installchecker#readme"
+}
